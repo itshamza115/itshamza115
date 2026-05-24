@@ -1,64 +1,59 @@
-## Hi there 👋
+# Hey, I'm Hamza 👋
 
-I’m Hamza, a software developer focused on clean engineering, AI-driven products, and polished full-stack web experiences.
+Computer Science student at the **University of Greenwich** (BSc Hons, First Class track · ~72% avg) — building real products while I study.
 
-[LinkedIn](https://www.linkedin.com/in/hamza-sardar-675730341/) · [GitHub](https://github.com/itshamza115)
-
----
-
-### 🚀 Featured projects
-
-- **SiteProof** — Next.js · TypeScript · Firebase · Tailwind CSS · Google Gemini API
-  - Built a full-stack construction site management SaaS with a multi-page dashboard for projects, timesheets, team management, compliance tracking, and delivery logging.
-  - Integrated Google Gemini 2.0 Flash AI across four API endpoints: AI-powered risk assessment (UK CDM 2015 & RIDDOR), automated safety checklists, site log summarisation, and weekly report generation.
-  - Added PDF export with jsPDF, data visualisation with Recharts, Gantt chart scheduling, PWA support, and role-based Firestore security rules.
-  - Managed state with Zustand and forms with Zod + React Hook Form, delivering a production-ready, end-to-end product.
-
-- **HashDrop** — JavaScript · AI API · HTML/CSS
-  - Developed a lightweight web tool that accepts a YouTube/social media video URL and uses AI to generate the five most relevant hashtags for content reach.
-  - Focused on usability, quick performance, and modern design for content creators.
-
-- **hamza-ai-cw-repo** — AI coursework, notebooks, and experiment tracking.
-  - Curated AI experiments, algorithm demos, and learning material in Jupyter notebooks.
+I care about shipping things that actually work: full-stack web apps, systems-level Java projects, and anything that sits at the intersection of AI and practical tooling.
 
 ---
 
-### 💼 Experience
+## 🚀 Projects
 
-- **Retail Athlete (Sales Associate)** — Nike, ICON O2 · London, UK
-  - Advised customers on footwear and apparel in a high-volume flagship store and consistently met sales targets during peak trading periods.
-  - Developed strong communication, persuasion, and teamwork skills in a fast-paced, customer-facing environment.
+### [SiteProof](https://github.com/itshamza115) &nbsp;·&nbsp; `Next.js` `TypeScript` `Firebase` `Tailwind CSS` `Google Gemini API`
+Full-stack construction site management SaaS — built end-to-end, production-ready.
+- Multi-page dashboard: projects, timesheets, team management, compliance, delivery logging
+- Google Gemini 2.0 Flash integrated across 4 endpoints — AI risk assessment (UK CDM 2015 & RIDDOR), safety checklists, site log summarisation, weekly report generation
+- PDF export (jsPDF), data visualisation (Recharts), Gantt scheduling, PWA support
+- Role-based Firestore security rules · Zustand state · Zod + React Hook Form validation
 
----
-
-### 🧰 Technical skills
-
-- **Languages:** TypeScript, JavaScript, Python, Java, R
-- **Frameworks:** Next.js (App Router), React, Tailwind CSS, Node.js
-- **Backend & DB:** Firebase (Firestore, Auth, Security Rules), REST APIs
-- **AI & ML:** Google Gemini API, Prompt Engineering, Generative AI
-- **Tools:** Git, GitHub, Zustand, Zod, React Hook Form, Recharts, jsPDF
-- **CS Concepts:** Algorithms & Data Structures, OOP, Software Engineering, Security
-- **Certifications:** Introduction to Generative AI — Google (Coursera)
-- **Languages:** English (Native), Urdu (Native)
+### Multi-Client Group Chat System &nbsp;·&nbsp; `Java` `TCP Sockets` `Swing` `JUnit 5`
+Fault-tolerant client-server chat application supporting multiple concurrent users.
+- Broadcast & private messaging over raw TCP sockets
+- Singleton + Observer design patterns; thread-safe concurrency via `ConcurrentHashMap` and double-checked locking
+- Automatic coordinator re-election on disconnection
+- JUnit 5 integration tests against a live server over real socket connections
 
 ---
 
-### 📊 GitHub analytics
+## 🛠 Tech Stack
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=itshamza115&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshamza115&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> |
-
-| Pinned Project |
-| --- |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=itshamza115&repo=hamza-ai-cw-repo&theme=tokyonight&hide_border=true" alt="Pinned repo" /> |
+```
+Languages    TypeScript · JavaScript · Python · Java · R
+Frameworks   Next.js (App Router) · React · Tailwind CSS · Node.js
+Backend/DB   Firebase (Firestore, Auth, Security Rules) · REST APIs
+AI/ML        Google Gemini API · Prompt Engineering · Generative AI
+Tools        Git · Zustand · Zod · React Hook Form · Recharts · jsPDF
+CS           Algorithms & Data Structures · OOP · Software Engineering · Security
+```
 
 ---
 
-### 📬 Let’s connect
-- LinkedIn: [Sardar Hamza](https://www.linkedin.com/in/hamza-sardar-675730341/)
-- Email: [itshamza115@gmail.com](mailto:itshamza115@gmail.com)
+## 📚 Education
 
-> Professional work, strong technical outcomes, and clean project presentation are the pillars of my GitHub presence.
+**University of Greenwich** — BSc Computer Science (Hons) · *Sep 2024 – Jun 2027*  
+First Class track (~72% avg)
 
+Relevant modules: Algorithms & Data Structures · Advanced Programming (Java) · Intro to AI · Operating Systems · Information Security · Software Engineering · Compilers · Paradigms of Programming · Statistical Techniques with R · Advanced Mathematics · Computational Methods
+
+🎓 **Certification:** Introduction to Generative AI — Google (Coursera)
+
+---
+
+## 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-itshamza115%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:itshamza115@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--sardar-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-sardar-675730341)
+[![GitHub](https://img.shields.io/badge/GitHub-itshamza115-181717?style=flat-square&logo=github)](https://github.com/itshamza115)
+
+---
+
+*Always open to internship opportunities, collaborations, and interesting problems.*
