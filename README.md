@@ -15,6 +15,13 @@ Full-stack construction site management SaaS — built end-to-end, production-re
 - PDF export (jsPDF), data visualisation (Recharts), Gantt scheduling, PWA support
 - Role-based Firestore security rules · Zustand state · Zod + React Hook Form validation
 
+### [CodesSaathi](https://github.com/itshamza115/codessaathi) &nbsp;·&nbsp; [Live Demo](https://codessaathi-bgo7.vercel.app/) &nbsp;·&nbsp; `React` `TypeScript` `Socket.IO` `Node.js` `Monaco Editor`
+Real-time collaborative code editor — like Google Docs, but for code. Built end-to-end and deployed live.
+- Live multi-user editing over WebSockets (Socket.IO) — room-based state isolation, presence tracking, and cursor-preserving sync with feedback-loop prevention
+- Monaco editor (VS Code's engine) with 15+ languages and swappable IDE color themes — VS Code, Dracula, Monokai, One Dark, GitHub, Nord, Solarized — plus 6 full app themes via CSS variables
+- Safe sandboxed code execution for 12 languages (Python, C++, Java, Go, Rust…) proxied to an isolated runner — never executed on the server
+- React + Vite + Tailwind frontend · Express + Socket.IO backend · deployed on Vercel + Render
+
 ### Multi-Client Group Chat System &nbsp;·&nbsp; `Java` `TCP Sockets` `Swing` `JUnit 5`
 Fault-tolerant client-server chat application supporting multiple concurrent users.
 - Broadcast & private messaging over raw TCP sockets
@@ -28,10 +35,12 @@ Fault-tolerant client-server chat application supporting multiple concurrent use
 
 ```
 Languages    TypeScript · JavaScript · Python · Java · R
-Frameworks   Next.js (App Router) · React · Tailwind CSS · Node.js
+Frameworks   Next.js (App Router) · React · Vite · Tailwind CSS · Node.js · Express
+Real-time    WebSockets · Socket.IO
 Backend/DB   Firebase (Firestore, Auth, Security Rules) · REST APIs
 AI/ML        Google Gemini API · Prompt Engineering · Generative AI
-Tools        Git · Zustand · Zod · React Hook Form · Recharts · jsPDF
+Tools        Git · Monaco Editor · Zustand · Zod · React Hook Form · Recharts · jsPDF
+Deploy       Vercel · Render
 CS           Algorithms & Data Structures · OOP · Software Engineering · Security
 ```
 
